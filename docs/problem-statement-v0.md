@@ -37,5 +37,5 @@
 ## AI Usage Record
 - **AI Tool(s):** Gemini
 - **AI Role:** Structuring problem framework and formulating non-solution-oriented questions
-- **Human Review:** Completed (Reviewed by Başar Sayılgan)
+- **Human Review:** Completed (Reviewed by Başar Sayılgan, İsmail Coşkun)
 - **Final Decision:** Accepted with contextual adaptations to campus transit dynamics
