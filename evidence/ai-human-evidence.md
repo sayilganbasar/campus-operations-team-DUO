@@ -54,5 +54,5 @@ Fikir teorik olarak güçlüdür ancak üniversitenin elinde bu modeli eğitebil
 ## AI Usage Record
 - **AI Tool(s):** Gemini
 - **AI Role:** Drafting solution proposals and structuring decision templates
-- **Human Review:** Completed (Proposals critically challenged, decisions justified, and evidence requirements defined by Başar Sayılgan)
+- **Human Review:** Completed (Proposals critically challenged, decisions justified, and evidence requirements defined by Başar Sayılgan, İsmail Coşkun)
 - **Final Decision:** 1 MODIFY, 1 REJECT, 1 UNCERTAIN decision approved
