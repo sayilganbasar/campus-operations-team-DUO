@@ -1,8 +1,9 @@
-# Campus Operations — Solo Project
+# Campus Operations — Team Project
 
 ## Team Members
 - Başar Sayılgan - [252416004]
-
+- İsmail Coşkun - [252416020]
+  
 ## Project
 Campus Operations Semester Project
 
@@ -14,5 +15,5 @@ Kampüs içi ring/servis seferlerinin varış saatlerindeki öngörülemezlik, p
 ## AI Usage Record
 - **AI Tool(s):** Gemini
 - **AI Role:** Structuring and drafting project scope
-- **Human Review:** Completed (Reviewed by Başar Sayılgan)
+- **Human Review:** Completed (Reviewed by Başar Sayılgan, İsmail Coşkun)
 - **Final Decision:** Problem area defined and refined individually
