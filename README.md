@@ -1,4 +1,4 @@
-# Campus Operations — DUO Project
+# Campus Operations — DU0 Project
 
 ## Team Members
 - Başar Sayılgan - [252416004]
