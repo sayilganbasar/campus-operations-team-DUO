@@ -37,10 +37,12 @@
 - [x] Arayüzdeki `"Eğitim Amaçlı Prototip – Veriler Simülasyondur."` uyarısının ve kart hiyerarşisinin görsel okunabilirliğinin kontrol edilmesi.
 - [x] `docs/test-cases.md` içindeki 6 test senaryosunun tarayıcıda bizzat çalıştırılarak `Actual Result` ve `Status` (`PASS`) alanlarının doldurulması.
 - [x] Doluluk eşik oranlarının (`%50` ve `%85`) proje kapsamı açısından uygunluğunun onaylanması.
-- [ ] Diğer takım üyesi tarafından kod ve dokümanlar için **Peer Review** yapılması.
+- [X] Diğer takım üyesi tarafından kod ve dokümanlar için **Peer Review** yapılması.
 
 ## 7. Yapay Zekâ Kullanım Beyanı ve Süreç Şeffaflığı
 - **Kullanılan AI Aracı:** Gemini
 - **Kullanım Amacı:** 4. hafta geri bildirimine uygun süreç hizalamasının yapılması, `mvp-requirements.md`, `test-cases.md` ve `engineering-evidence.md` yapılarının oluşturulması ve HTML5/CSS3/Vanilla JS prototip kodunun geliştirilmesi.
 - **İnsan Doğrulaması:** Üretilen tüm gereksinimler, simülasyon mantığı ve test senaryoları Team DUO üyeleri tarafından incelenip tarayıcı ortamında çalıştırılarak doğrulanmıştır.
 - **GitHub Durum Notu:** Sürüm kontrol işlemleri (Commit/Push) yapay zekâ tarafından otomatik yapılmamış, takım üyelerinin inceleme ve onayı sonrasında manuel olarak gerçekleştirilmiştir.
+
+- **Peer Review Onayı:** Kod yapısı, gereksinim uyumluluğu ve arayüz görünümü incelenip onaylanmıştır.
