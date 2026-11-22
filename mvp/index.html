@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Campus Operations – Ring Bilgi Paneli (MVP)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="demo-banner" role="region" aria-label="Simülasyon Uyarısı">
+    Eğitim Amaçlı Prototip – Veriler Simülasyondur.
+  </div>
+
+  <header class="app-header">
+    <div class="container">
+      <h1>Campus Operations – Ring Bilgi Paneli</h1>
+      <p class="subtitle">
+        Kampüs içi ring seferleri için tahmini varış süresi (ETA) ve doluluk simülasyonu (Demo Data)
+      </p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls-panel" aria-labelledby="controls-heading">
+      <div class="controls-info">
+        <h2 id="controls-heading">Simülasyon Kontrolleri</h2>
+        <p class="step-indicator" aria-live="polite">
+          Simülasyon Adımı: <strong id="step-count">0</strong>
+          <span class="badge-demo">Simulated Data</span>
+        </p>
+      </div>
+
+      <div class="controls-actions">
+        <button type="button" id="btn-advance" class="btn btn-primary">
+          Simülasyonu 1 Adım İlerlet (+2 dk)
+        </button>
+        <button type="button" id="btn-reset" class="btn btn-secondary">
+          Başlangıç Durumuna Sıfırla
+        </button>
+      </div>
+    </section>
+
+    <section aria-labelledby="stops-heading">
+      <div class="section-header">
+        <h2 id="stops-heading">Örnek Kampüs Durakları</h2>
+        <span class="legend">Kapasite Eşikleri: Müsait (&lt;%50) · Yoğun (%50–%85) · Dolu (&gt;%85)</span>
+      </div>
+
+      <div id="stops-grid" class="stops-grid" aria-live="polite">
+        <!-- Durak kartları app.js tarafından dinamik oluşturulur -->
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <div class="container">
+      <p>Team DUO · Yazılım Geliştirme Süreçleri MVP Prototipi · Tüm veriler kurgusal/simülasyon amaçlıdır.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
